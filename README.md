@@ -2,7 +2,7 @@
 Optimal solutions to all of the problems in the gfg's(geeks for geeks) Placement prep course that I wrote
 
 #Sections
-1.Mathematics
+1.Mathematics <br/>
 2.Arrays
 3.Searching and sorting
 4.Strings
