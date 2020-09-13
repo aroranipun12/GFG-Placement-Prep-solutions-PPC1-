@@ -1,5 +1,5 @@
 # GFG-Placement-Prep-solutions-PPC1-
-Optimal solutions to all of the problems in the gfg's(geeks for geeks) Placement prep course (PPC1)
+Optimal solutions to all of the problems in the gfg's(geeks for geeks) Placement prep course(PPC1)
 
 ## Sections <br/>
 1.Mathematics <br/>
